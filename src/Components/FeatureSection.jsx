@@ -9,7 +9,7 @@ const FeatureSection = () => {
                     Feature
                 </span>
                 <h2 className='text-3xl sm:text-5xl lg:text-6xl mt-10 lg:mt-20'>
-                    Easily build <span className='bg-gradient-to-r from-orange-500 to-red-800 bg-clip-text text-transparent'>your code</span> your code
+                    Easily build <span className='bg-gradient-to-r from-orange-500 to-red-800 bg-clip-text text-transparent'>your code</span>
                 </h2>
             </div>
             <div className='flex flex-wrap mt-10 lg:mt-20'>
